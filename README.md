@@ -29,13 +29,13 @@ When I'm not working with data, I enjoy playing my guitar,  singing,hanging with
 
 ## 🌱 Currently Learning 
 
-- Building Predictive Modelas
+- Building Predictive Models
 
 ## 🛠️ Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
-#### Data Analysis & Visualization
+#### Data Analysis & Visualization & Modeling
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
